@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fnaf_mod_:blocks/missing_texture",
+    "up": "fnaf_mod_:blocks/missing_texture",
+    "north": "fnaf_mod_:blocks/missing_texture",
+    "east": "fnaf_mod_:blocks/missing_texture",
+    "south": "fnaf_mod_:blocks/missing_texture",
+    "west": "fnaf_mod_:blocks/missing_texture",
+    "particle": "fnaf_mod_:blocks/missing_texture"
+  }
+}
